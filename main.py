@@ -1,6 +1,5 @@
-import crypto_utils # ماژولی که در آن مراحل رمنگاری و رمزگشایی انجام میشود
-import db_manager #دیتابیسی که در آن اطلاعات ذخیره میشوند
-
+import crypto_utils # Module where the encoding and decoding steps are performed
+import db_manager # Database where information is stored
 
 while True :
 
