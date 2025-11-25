@@ -36,4 +36,4 @@ TVTO Certified | Faradars | FreeCodeCamp
 
 GitHub = https://github.com/Amirsam-Azmoodeh
 LinkedIn = https://www.linkedin.com/in/amirsam-azmoodeh-2b9726364
-email = amirsamazmoodeh@gmail.com
+
