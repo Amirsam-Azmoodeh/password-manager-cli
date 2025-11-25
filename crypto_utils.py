@@ -10,6 +10,6 @@ fernet = Fernet(KEY.encode())
 def encrypt_password(password) :
     return fernet.encrypt(password.encode())
 
-def decrypt_password(token) : # توکن همان اطلاعات رمزنگاری شده است 
+def decrypt_password(token) :
     return fernet.decrypt(token).decode()
 
