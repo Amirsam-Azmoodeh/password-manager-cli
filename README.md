@@ -1,5 +1,4 @@
 # Password Manager CLI
-#### Video Demo: <https://youtu.be/your_video_url>
 #### Description:
 
 ## Project Overview
